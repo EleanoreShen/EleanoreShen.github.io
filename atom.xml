@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-13T12:38:20.000Z</updated>
+  <updated>2018-06-12T11:03:39.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>图书馆学原理</title>
-    <link href="http://yoursite.com/2018/06/12/%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%AD%A6%E5%8E%9F%E7%90%86/"/>
-    <id>http://yoursite.com/2018/06/12/图书馆学原理/</id>
-    <published>2018-06-12T13:48:15.000Z</published>
-    <updated>2018-06-13T12:38:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>参考教材：<br>  《图书馆学导论》 于良芝 科学出版社 2003年<br>  《图书馆学通论》 蒋永福 黑龙江大学出版社 2009年<br><a id="more"></a> </p><h1 id="图书馆与图书馆职业"><a href="#图书馆与图书馆职业" class="headerlink" title="图书馆与图书馆职业"></a>图书馆与图书馆职业</h1><h2 id="几个基本概念及其关系：数据、信息、知识、情报、文献"><a href="#几个基本概念及其关系：数据、信息、知识、情报、文献" class="headerlink" title="几个基本概念及其关系：数据、信息、知识、情报、文献"></a>几个基本概念及其关系：数据、信息、知识、情报、文献</h2><p>① 数据<br>未经整理的、可被判读的数字、文字、符号、图像、声音、样本等<br>例如:<br>1’ 社会科学研究中形成的访谈记录、问卷反馈<br>2’ 人造卫星拍摄的天体照片<br>3’ 实验研究中形成的一组原始数据在经过整理并被赋予特定的含义之前<br>PS: 不能被判读的符号、声音、图像，如计算机的乱码，不能称作数据<br>② 信息<br>在特定背景下经过整理的，表达一定意义的数字、文字、符号、图像、声音、信号等<br>一组实验记录的堆砌不是信息，但是将这组数据按一定的顺序加以阻止，它就成为信息<br>有意义的数据，无论是存储在大脑中，还是通过文字或其他方式表达出来的，都是信息<br>③ 知识</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;参考教材：&lt;br&gt;  《图书馆学导论》 于良芝 科学出版社 2003年&lt;br&gt;  《图书馆学通论》 蒋永福 黑龙江大学出版社 2009年&lt;br&gt;
-    
-    </summary>
-    
-      <category term="图书情报" scheme="http://yoursite.com/categories/%E5%9B%BE%E4%B9%A6%E6%83%85%E6%8A%A5/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
